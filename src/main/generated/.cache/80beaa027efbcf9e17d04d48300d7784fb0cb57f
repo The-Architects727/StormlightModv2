@@ -1,0 +1,5 @@
+// 1.21.1	2025-01-05T20:57:09.7375668	Tutorial Mod/Tags for minecraft:block
+4713b9e19c06a5d5f3837e0900654315db82b554 data\minecraft\tags\block\needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\minecraft\tags\block\needs_diamond_tool.json
+e26fb6af1159b4a32e291bc3e5dbb046e18167ca data\stormlightmod\tags\block\shardblade_mineable.json
+4713b9e19c06a5d5f3837e0900654315db82b554 data\minecraft\tags\block\mineable\pickaxe.json

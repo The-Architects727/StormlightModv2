@@ -1,0 +1,89 @@
+{
+  "item.stormlightmod.uncut_sapphire": "Uncut Sapphire",
+  "item.stormlightmod.uncut_emerald": "Uncut Emerald",
+  "item.stormlightmod.uncut_smokestone": "Uncut Smokestone",
+  "item.stormlightmod.uncut_ruby": "Uncut Ruby",
+  "item.stormlightmod.uncut_garnet": "Uncut Garnet",
+  "item.stormlightmod.uncut_zircon": "Uncut Zircon",
+  "item.stormlightmod.uncut_topaz": "Uncut Topaz",
+  "item.stormlightmod.uncut_heliodor": "Uncut Heliodor",
+
+  "item.stormlightmod.cut_sapphire": "Cut Sapphire",
+  "item.stormlightmod.cut_smokestone": "Cut Smokestone",
+  "item.stormlightmod.cut_ruby": "Cut Ruby",
+  "item.stormlightmod.cut_diamond": "Cut Diamond",
+  "item.stormlightmod.cut_emerald": "Cut Emerald",
+  "item.stormlightmod.cut_garnet": "Cut Garnet",
+  "item.stormlightmod.cut_zircon": "Cut Zircon",
+  "item.stormlightmod.cut_amethyst": "Cut Amethyst",
+  "item.stormlightmod.cut_topaz": "Cut Topaz",
+  "item.stormlightmod.cut_heliodor": "Cut Heliodor",
+
+  "item.stormlightmod.sapphire_sphere": "Sapphire Sphere",
+  "item.stormlightmod.smokestone_sphere": "Smokestone Sphere",
+  "item.stormlightmod.ruby_sphere": "Ruby Sphere",
+  "item.stormlightmod.diamond_sphere": "Diamond Sphere",
+  "item.stormlightmod.emerald_sphere": "Emerald Sphere",
+  "item.stormlightmod.garnet_sphere": "Garnet Sphere",
+  "item.stormlightmod.zircon_sphere": "Zircon Sphere",
+  "item.stormlightmod.amethyst_sphere": "Amethyst Sphere",
+  "item.stormlightmod.topaz_sphere": "Topaz Sphere",
+  "item.stormlightmod.heliodor_sphere": "Heliodor Sphere",
+
+  "item.stormlightmod.infused_sapphire_sphere": "Infused Sapphire Sphere",
+  "item.stormlightmod.infused_smokestone_sphere": "Infused Smokestone Sphere",
+  "item.stormlightmod.infused_ruby_sphere": "Infused Ruby Sphere",
+  "item.stormlightmod.infused_diamond_sphere": "Infused Diamond Sphere",
+  "item.stormlightmod.infused_emerald_sphere": "Infused Emerald Sphere",
+  "item.stormlightmod.infused_garnet_sphere": "Infused Garnet Sphere",
+  "item.stormlightmod.infused_zircon_sphere": "Infused Zircon Sphere",
+  "item.stormlightmod.infused_amethyst_sphere": "Infused Amethyst Sphere",
+  "item.stormlightmod.infused_topaz_sphere": "Infused Topaz Sphere",
+  "item.stormlightmod.infused_heliodor_sphere": "Infused Heliodor Sphere",
+
+  "item.stormlightmod.void_infused_sapphire_sphere": "Void Infused Sapphire Sphere",
+  "item.stormlightmod.void_infused_smokestone_sphere": "Void Infused Smokestone Sphere",
+  "item.stormlightmod.void_infused_ruby_sphere": "Void Infused Ruby Sphere",
+  "item.stormlightmod.void_infused_diamond_sphere": "Void Infused Diamond Sphere",
+  "item.stormlightmod.void_infused_emerald_sphere": "Void Infused Emerald Sphere",
+  "item.stormlightmod.void_infused_garnet_sphere": "Void Infused Garnet Sphere",
+  "item.stormlightmod.void_infused_zircon_sphere": "Void Infused Zircon Sphere",
+  "item.stormlightmod.void_infused_amethyst_sphere": "Void Infused Amethyst Sphere",
+  "item.stormlightmod.void_infused_topaz_sphere": "Void Infused Topaz Sphere",
+  "item.stormlightmod.void_infused_heliodor_sphere": "Void Infused Heliodor Sphere",
+
+
+  "item.stormlightmod.shard_plate_helmet": "Shard Plate Helmet",
+  "item.stormlightmod.shard_plate_chestplate": "Shard Plate Chestplate",
+  "item.stormlightmod.shard_plate_leggings": "Shard Plate Leggings",
+  "item.stormlightmod.shard_plate_boots": "Shard Plate Boots",
+
+
+  "block.stormlightmod.sapphire_ore": "Sapphire Ore",
+  "block.stormlightmod.emerald_ore": "Emerald Ore",
+  "block.stormlightmod.smokestone_ore": "Smokestone Ore",
+  "block.stormlightmod.ruby_ore": "Ruby Ore",
+  "block.stormlightmod.garnet_ore": "Garnet Ore",
+  "block.stormlightmod.zircon_ore": "Zircon Ore",
+  "block.stormlightmod.topaz_ore": "Topaz Ore",
+  "block.stormlightmod.heliodor_ore": "Heliodor Ore",
+
+  "block.stormlightmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.stormlightmod.deepslate_emerald_ore": "Deepslate Emerald Ore",
+  "block.stormlightmod.deepslate_smokestone_ore": "Deepslate Smokestone Ore",
+  "block.stormlightmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.stormlightmod.deepslate_garnet_ore": "Deepslate Garnet Ore",
+  "block.stormlightmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.stormlightmod.deepslate_topaz_ore": "Deepslate Topaz Ore",
+  "block.stormlightmod.deepslate_heliodor_ore": "Deepslate Heliodor Ore",
+
+
+
+  "effect.stormlightmod.shard_enhanced": "Shard Enhanced",
+  "effect.stormlightmod.incomplete_shardplate": "Incomplete Shardplate",
+
+
+  "itemgroup.stormlightmod.stormlight_items": "Stormlight Items",
+  "itemgroup.stormlightmod.stormlight_blocks": "Stormlight Blocks",
+  "itemgroup.stormlightmod.stormlight_equippables": "Stormlight Equippables"
+}

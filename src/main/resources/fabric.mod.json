@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "stormlightmod",
+	"version": "${version}",
+	"name": "Stormlight Mod",
+	"description": "Stormlight Mod Conversion",
+	"authors": [
+		"TheArchitects!"
+	],
+	"license": "MIT",
+	"icon": "assets/stormlightmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.architects.stormlightmod.StormlightMod"
+		],
+		"fabric-datagen": [
+			"net.architects.stormlightmod.StormlightModDataGenerator"
+		]
+	},
+	"mixins": [
+		"stormlightmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
